@@ -1,2 +1,3 @@
 # YbiFoundation
-MY projects
+My projects at Ybi Foundation
+On Data Science and AIML
